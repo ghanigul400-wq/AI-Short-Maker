@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "AI Short Maker",
+    "slug": "ai-short-maker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.ghani.aishortmaker",
+      "versionCode": 1
+    }
+  }
+}
