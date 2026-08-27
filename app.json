@@ -7,6 +7,11 @@
     "android": {
       "package": "com.ghani.aishortmaker",
       "versionCode": 1
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ab385390-ab81-4c89-9ca6-63a34b58bd37"
+      }
     }
   }
 }
